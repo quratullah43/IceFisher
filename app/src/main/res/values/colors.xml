@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ice_blue">#4FC3F7</color>
+    <color name="deep_blue">#0D47A1</color>
+    <color name="snow_white">#FFFFFF</color>
+    <color name="dark_water">#1A237E</color>
+    <color name="frost">#B3E5FC</color>
+    <color name="golden">#FFD700</color>
+    <color name="black">#000000</color>
+</resources>
